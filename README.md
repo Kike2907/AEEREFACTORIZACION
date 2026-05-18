@@ -105,25 +105,3 @@ La clase `FacturacionLegacyTest.java` contiene la batería de pruebas que actúa
 | Importe negativo | importe=-50, tipo=1, vip=true | 0.0 |
 | Importe cero | importe=0, tipo=2, vip=false | 0.0 |
 
-Todos los tests pasan en verde tras la refactorización, lo que confirma que la lógica de negocio no se ha alterado.
-
----
-
-## Control de versiones
-
-Los cambios se gestionaron con Git siguiendo la convención de commits semánticos:
-
-```
-refactor: reducción de complejidad ciclomática mediante cláusulas de guarda y nombrado semántico
-```
-
----
-
-## Resultado de Aprendizaje evaluado
-
-**RA 4 — Optimiza y documenta código, aplicando herramientas de refactorización y control de versiones.**
-
-- a) Uso de herramientas de refactorización del IDE
-- b) Reducción de complejidad y mejora de legibilidad
-- d) Documentación con formato estándar JavaDoc
-- f) Control de versiones con Git
