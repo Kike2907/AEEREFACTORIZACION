@@ -4,7 +4,7 @@ Bienvenido/a al repositorio base de la práctica evaluativa de refactorización 
 
 ## **Tu Misión**
 
-En este repositorio encontrarás la clase FacturacionLegacy.java. Tu objetivo es utilizar las herramientas de tu IDE (Eclipse, IntelliJ o NetBeans) para limpiar este código aplicando la **Regla del Boy Scout**, eliminando números mágicos y reduciendo la complejidad ciclomática mediante cláusulas de guarda.
+En este repositorio encontrarás la clase FacturacionLegacy.java. Tu objetivo es utilizar las herramientas de tu IDE (VS Code o NetBeans) para limpiar este código aplicando la **Regla del Boy Scout**, eliminando números mágicos y reduciendo la complejidad ciclomática mediante cláusulas de guarda.
 
 ## **La Red de Seguridad**
 
